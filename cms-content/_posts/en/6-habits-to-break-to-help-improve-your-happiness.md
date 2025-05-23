@@ -1,0 +1,20 @@
+---
+title: 6 Habits To Break To Help Improve Your Happiness
+date: 2016-06-07
+previewText: "We're all looking for it. We all strive for it. We all obtain it in different ways. I'm talking about happiness. And while there is no surefire way to reach your goal, everyone is different, there are some habits you can break to help improve your overall happiness. Not only will breaking these habits improve your personal life, but eliminating unnecessary stress and other demotivators will resonate through your professional life, as well."
+author: Josiah Motley
+---
+We're all looking for it. We all strive for it. We all obtain it in different ways. I'm talking about happiness. And while there is no surefire way to reach your goal, everyone is different, there are some habits you can break to help improve your overall happiness. Not only will breaking these habits improve your personal life, but eliminating unnecessary stress and other demotivators will resonate through your professional life, as well.
+
+Check out some of the habits below to start working on your happiness today!
+
+![happiness pyrus](happiness-pyrus.webp)
+
+1. Stop blaming others: It's really easy to say something bad happened because of someone else, but try to refrain from blame as much as possible. Blaming others means you're not in control of your own life, and feeling in control is a quick way to garner happiness.
+2. Stop complaining: This goes hand-in-hand with blaming others. Constant complaining is addictive and before you know it you're nitpicking about every small detail of your life (and usually blaming others at the same time). While venting to a trusted friend or coworker can be therapeutic, there's a fine line there.
+3. Stop binging: This pretty much includes everything. Netflix, video games, food, you name it and you should probably stop over-indulging in it. While the occasional Netflix binge can help clear your mind, it's a slippery slope, one that left unchecked can lead to lots of unhappiness.  Think about how you feel after a 4 hour binge session of entertainment. Do you feel better? Or do you feel like an unproductive slob? Moderation is key.
+4. Stop dwelling on the past: Yes, that embarrassing thing in college was cringe-worthy, but I promise you that no one else remembers it. And if they do, well, that's there own issue, you have more important things to worry about. Like the present. We've all had embarrassing or tough moments, but stop stressing over them. They made you stronger, you learned from them, and it's time to move on.
+5. Stop hanging out with negative people: We're social creatures. We feed off those we surround ourselves with. If you find that your social group spends a majority of their time gossiping and complaining, it might be time to break away from them a bit. On the other side of the coin, if you have friends who are generally positive, motivated, and full of ideas feed off them, their positivity and motivation will rub off on you.
+6. Stop comparing yourself to others on social media: We filter ourselves on social media. We leave out the fears and the bad parts and instead focus on the positives. Almost everyone treats social media like this. We want to portray happiness and show our friends and family the awesome experiences we have. With this, we start to compare ourselves to others. "Her life seems amazing, look how many fun things she does!" or "Man, I want his life, he has no cares in the world." Those people have the same fears and stresses you have in your life, but we don't see those low points and instead focus on their happiness and get jealous when we feel our lives aren't living up to theirs.
+
+These are just a few habits you can work on breaking to help with your happiness, but remember that everyone is different. While we can't control all of our circumstances or how are brain works, being able to acknowledge the things the make us unhappy is the first step on a path that can lead to improving happiness and a more positive outlook on life.

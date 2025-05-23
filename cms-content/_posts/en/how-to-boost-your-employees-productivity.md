@@ -1,0 +1,15 @@
+---
+title: How To Boost Your Employees' Productivity
+date: 2016-05-10
+previewText: "It's one thing to boost your own productivity, there's plenty of tips and tricks for that, but when it comes to boosting your employees' productivity it can be a bit more tricky. Not to say that it's impossible, but many of the methods for boosting self productivity have mixed results, only because those come down the individual's desire to improve. There are things you can implement directly into the workplace to help boost your employees' productivity, however."
+author: Josiah Motley
+---
+It's one thing to boost your own productivity, there's plenty of tips and tricks for that, but when it comes to boosting your employees' productivity it can be a bit more tricky. Not to say that it's impossible, but many of the methods for boosting self productivity have mixed results, only because those come down the individual's desire to improve. There are things you can implement directly into the workplace to help boost your employees' productivity, however.
+
+![4556099850_3e23f1e226_o](4556099850_3e23f1e226_o.webp)
+
+Setting goals and then using those metrics will help employees know exactly what is expected of them. Clearing defining your goals gives them something to shoot for, a clear finish line. There are also multiple apps available to implement into your system that will help track employee productivity. Apps that measure productivity will not only give you clear metrics, but can have bonus effects on employees - the idea of gamification. By letting your employees see their results, it can become a game of sorts, "Well, if I was _this_ productive today, what can I do to make my score even higher?"
+
+While it would be great to have employees working 100% of the time during their shift, it simply isn't realistic, you have to account for "brain breaks." Not only will your employees appreciate being able to take a break, but science has even shown it can actually boost productivity! [One study](https://www.sciencedaily.com/releases/2011/02/110208131529.htm) has shown that employees who took just one brief break every hour performed better than those without a small 5-10 minute break. In the same vein, many businesses will have strict limitations on internet usage in an attempt to keep employees focused. While there should be some limits, consider lowering your restrictions. That five minute Twitter break or quick blog read might be all your employee needs to get fired up again.
+
+These are just a couple of ways to help boost your team's productivity. You also have tried-and-true methods like bonuses and raises to help motivate your team. Encourage your team to take their lunch away from the office. The change in scenery will help refresh and revitalize. The key is remembering that your team is comprised of individuals who all have their own goals and aspirations, and the stronger your bond, the better you'll be able to help motivate.

@@ -1,0 +1,61 @@
+---
+title: Hiring for a Diversity of Strengths
+date: 2022-03-21
+categories:
+  - business-development
+  - business-process-management
+  - pyrus
+  - team-management
+  - work
+tags:
+  - business-growth
+  - business-process-management
+  - pyrus
+  - team-management
+  - technology
+  - workflow
+previewImage: christina-wocintechchat-com-x29idTmYGXg-unsplash-630x420-from-site-en.jpg
+previewText: "Last week, I wrote about the value of embracing Corporate Social Responsibility. Companies that care about their impact on people see rewards for their efforts. As mentioned, one way to move towards social responsibility is to reexamine hiring practices. Organizations serve all stakeholders, including their employees, customers, and communities, by hiring a diverse workforce. In this blog post, I’m drawing attention to key categories of candidates to consider for open roles."
+author: Nora Rubin
+---
+Last week, I wrote about [the value of embracing Corporate Social Responsibility](https://pyrus.com/en/blog/embracing-corporate-social-responsibility). Companies that care about their impact on people see rewards for their efforts. As mentioned, one way to move towards social responsibility is to reexamine hiring practices. Organizations [serve all stakeholders](https://pyrus.com/en/blog/hold-on-to-stakeholders), including their employees, customers, and communities, by hiring a diverse workforce. In this blog post, I’m drawing attention to key categories of candidates to consider for open roles.
+
+### **What Most People Mean by Diversity**
+
+When you think of diversity, you’re probably thinking about racial and ethnic diversity. It’s certainly true that racial and ethnic inequities exist in the workplace. The proof has been in the unemployment data for years. (For a recent example, see [this 2021 report from the Economic Policy Institute](https://www.epi.org/indicators/state-unemployment-race-ethnicity/).) Of course, it is important to keep racial and ethnic diversity in mind while hiring. However, this is not the only kind of diversity that the workplace needs.
+
+That being said, it’s worth reviewing some best practices that have been identified to support minoritized racial and ethnic groups. For instance, [this article from SHRM](https://www.shrm.org/resourcesandtools/hr-topics/talent-acquisition/pages/8-diversity-recruiting-mistakes-how-to-avoid-them.aspx) underscores the need to recognize how race correlates to economic resources. [This collection of graphs](https://inequality.org/facts/racial-inequality/) presents a clear picture of how significant that correlation is in the United States. To address economic barriers to greater inclusion in the workplace, organizations can take several steps. For instance, they can offer relocation stipends. They can also make efforts to schedule interviews outside of regular working hours when necessary. Organizations can even invest in paid internships, a hot topic I covered in [this previous post about internships](https://pyrus.com/en/blog/internships-are-for-organizations).
+
+[This Forbes article](https://www.forbes.com/sites/alineholzwarth/2021/02/18/how-to-actually-hire-for-diversity/) presents additional suggestions to support fair hiring practices in general. Organizations should have objective criteria for hiring and clear, standardized processes. One good way to standardize processes transparently is to create workflows. Your organization can use a software like [Pyrus](https://pyrus.com/en/workflows) to create customized workflows with preset rules. This will increase the transparency of HR’s business processes. As an added perk, Pyrus generates data analyses that will capture your progress in meeting diversity-related benchmarks in hiring. This will be of use for all the categories discussed below.
+
+### **Hiring More Women**
+
+![pregnant woman working remotely](business-g1614b29fc_640-300x200.webp)
+
+One benchmark many companies discuss that isn’t related to race or ethnicity focuses on the gender gap. As I wrote in [this earlier blog about women in the workplace](https://pyrus.com/en/blog/pyrus-com-working-for-home), there’s a crisis in the US workforce. In a myriad of ways, women are discouraged from and underappreciated at work. Though I already wrote [this blog about how leadership can support working women](https://pyrus.com/en/blog/working-for-home-the-role-of-leadership), I want to highlight some new research.
+
+[This study from 2021](https://www.nature.com/articles/s41562-020-01033-0) found evidence that extending short lists can improve the chances for female candidates. [This HBR article](https://hbr.org/2021/02/research-to-reduce-gender-bias-in-hiring-make-your-shortlist-longer) explains. Basically, this goes back to the importance of standardized hiring workflows. A lot of organizations use informal hiring practices instead, and that opens up the door to a lot of bias. Many managers make a short list of people they know and then ignore other candidates. When hiring professionals intentionally add a few more candidates to the list, women’s chances of success improve. Check out [this research on creativity](https://www.pnas.org/doi/10.1073/pnas.2005620117) to see why that trick works.
+
+Making intentional efforts to hire more women is especially important in the wake of the pandemic. As [this CNBC article](https://www.cnbc.com/2020/11/10/nearly-2point2-million-women-left-workforce-between-february-and-october.html) highlights, millions of women left the workforce within the first few months of the pandemic. Now, they face the challenge of returning to their careers. [This HBR article](https://hbr.org/2021/02/5-ways-to-bring-women-back-into-the-post-pandemic-workforce) suggests ways that organizations can support women in their return to work. This includes being less judgmental of gaps in women’s resumes, especially those related to caregiving. Organizations can also choose to offer “returnships.” If you’re not sure how to implement a program like that, check out [Path Forward](https://www.pathforward.org/) and consider a partnership.
+
+### **Giving Formerly Incarcerated Folks a Second Chance**
+
+Another population that faces high levels of unemployment is those who have been incarcerated. As [this article](https://hbr.org/2021/09/what-is-dei-doing-for-the-formerly-incarcerated) describes, efforts to prioritize diversity and inclusion have largely ignored these folks. That’s probably due to a lot of fear and stereotyping. It’s not an issue we can just afford to ignore, though. [These statistics from the Sentencing Project](https://www.sentencingproject.org/criminal-justice-facts/) point to how many millions of people are incarcerated in the United States. (By the way, those stats also show how incarceration intersects with racial inequity.) Unfortunately, [these statistics](https://www.prisonpolicy.org/reports/outofwork.html) give a grim prognosis for those millions. If and when they try to reenter society and find work, they face an unemployment rate of 27%. That means less than 3 in 4 formerly incarcerated people can find work. Organizations are afraid of hiring them.
+
+However, [research on formerly incarcerated workers](https://izajolp.springeropen.com/articles/10.1186/s40173-018-0101-0) shows that they can be valuable employees. In particular, these employees are less likely to quit and more likely to stay loyal. That’s an important quality to find in the face of [the Great Resignation](https://en.wikipedia.org/wiki/Great_Resignation). If you’re ready to start including this population in your workforce, there are steps your organization can take. Some are simple. [This Forbes article](https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/20/formerly-incarcerated-people-and-the-employment-gap-expanding-opportunities/) recommends writing on job applications that “any applicants with criminal records will be evaluated on an individual basis.” This will reassure formerly incarcerated candidates that they have a chance and should still apply. In addition, your organization may want to partner with organizations working to help formerly incarcerated individuals find work. These include [70 Million Jobs](https://www.70millionjobs.com/), [Code Tenderloin](https://www.codetenderloin.org/), and many other organizations.
+
+### **Honoring Veterans by Hiring Veterans**
+
+How would your organization like to hire a candidate who’s calm under pressure, resourceful, and a quick learner? If that sounds like a great employee, you should be hiring more military veterans. [This Forbes article](https://www.forbes.com/sites/dawngraham/2020/11/10/why-youre-missing-out-if-youre-not-hiring-military-veterans/) describes even more of the great skills people learn from military service. Those include teamwork, leadership skills, and reliability. Especially in pandemic times, as [this article](https://www.forbes.com/sites/hvmacarthur/2020/07/16/why-hiring-veterans-during-covid-19-could-give-your-company-the-competitive-advantage-it-needs/) highlights, veterans can give your organization a competitive edge. After all, they’re trained to work well in chaotic circumstances. They also have experience navigating the blending of personal and professional lives. They’re prepared for the [tidal wave of stress hitting workplaces](https://pyrus.com/en/blog/stressing-out-of-the-office). As an added plus, veterans are a diverse group. You’ll find folks of all races, genders, and abilities in their ranks.
+
+Veterans can struggle to find work when they transition out of the service. [This video from Google](https://www.youtube.com/watch?v=YiGdH-SAYIo) describes a feature designed to support them in finding civilian jobs. The Google feature allows them to search for jobs based on their MOS (Military Occupational Specialty). As [this article](https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/09/honor-veterans-with-opportunity-and-accommodation-in-the-workplace/) suggests, your organization could help veterans out by taking the time to learn the lingo. If you encounter a resume with unfamiliar terms and equipment names, take a few minutes to find out what it means. You might be on the verge of hiring the perfect fit for your team. In addition, organizations can offer the benefits that matter most for many veterans. These include support for mental health, as well as disability accommodations. (More on that below.)
+
+### **Valuing Diverse Abilities**
+
+![man in wheelchair working at call center](disabled-g549e1c887_640-300x199.webp)
+
+I wrote about [the importance of accessibility in the workplace](https://pyrus.com/en/blog/access-accessibility-in-the-workplace) earlier. Not only is hiring folks with disabilities ethical, it’s also great for your organization. [This Forbes article](https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/03/seven-reasons-why-hiring-people-with-disabilities-is-good-for-business/?sh=3290b04e1832) explains why that is. For one, [research](https://www.nature.com/articles/s41599-021-00707-y) finds that hiring people with disabilities has a positive impact on the financial bottom line. Contrary to popular belief, making accommodations for differently abled workers doesn’t typically present huge costs. As [this article](https://askjan.org/topics/costs.cfm) details, most accommodations are totally free to implement. Many others have a very low price tag. Plus, hiring people with disabilities comes with huge advantages. For example, [this article](https://hbr.org/2017/05/neurodiversity-as-a-competitive-advantage) focuses on the benefits of hiring neurodiverse candidates.
+
+Organizations like the [Job Accommodation Network](https://askjan.org/) and [the Employer Assistance and Resource Network on Disability Inclusion (EARN)](https://askearn.org/) can support you in hiring people of diverse abilities. You’ll get free advice about accommodations and support with recruitment and hiring from these organizations.
+
+I hope the information and resources I’ve shared in this article inspire you and your organization. You can start hiring more diverse candidates right away, keeping all the above groups in mind.

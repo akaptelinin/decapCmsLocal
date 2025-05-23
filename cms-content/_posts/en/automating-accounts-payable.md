@@ -1,0 +1,45 @@
+---
+title: "ABCs of AP: Automating the Accounts Payable Process"
+date: 2020-11-03
+categories:
+  - accounts-payable
+tags:
+  - accounts-payable
+  - automation
+previewImage: rupixen-com-W6lnG75rspc-unsplash-630x420-from-site-en.jpg
+previewText: "Welcome back to the Pyrus blog! This week, I’m pivoting from a focus on productivity in general to a more precise focus on a critical part of every business’s success: the accounts payable (AP) process. In fact, I’m starting a series to highlight the basic building blocks, or ABCs, of an optimized AP process. Don’t worry if you’re not entirely familiar with AP yet! I’ll give a brief rundown before getting into my first ABC topic."
+author: Nora Rubin
+---
+Welcome back to the Pyrus blog! This week, I’m pivoting from a focus on productivity in general to a more precise focus on a critical part of every business’s success: the accounts payable (AP) process. In fact, I’m starting a series to highlight the basic building blocks, or ABCs, of an optimized AP process. Don’t worry if you’re not entirely familiar with AP yet! I’ll give a brief rundown before getting into my first ABC topic.
+
+### **Accounts Payable: An Overview**
+
+According to [Investopedia](https://www.investopedia.com/terms/a/accountspayable.asp), the term “accounts payable” has two major meanings. First, it can refer to the amounts a company owes to its vendors or suppliers for the goods or services that have been provided but not yet paid for. Second, “accounts payable” can refer to the department, team, or process responsible for managing this part of a company. For the purposes of this blog, I’ll use AP primarily to refer to the process as a whole.
+
+As the article points out, it’s critical not to confuse accounts payable (AP) with [accounts receivable (AR)](https://www.investopedia.com/terms/a/accountsreceivable.asp). Whereas AP refers to a company’s liability, AR focuses on company assets. The Investopedia article on AR offers a great example of how to understand and distinguish between these similar-sounding terms. Imagine: a company called Carpet Cleanerz provides carpet cleaning services to other companies. Now, another company called Productivity4Ever hires Carpet Cleanerz to clean their carpets. Carpet Cleanerz comes in, provides the service, and then sends an invoice to charge Productivity4Ever for the service. At this point, Carpet Cleanerz sees that invoice as an Accounts Receivable, or AR, document, since it represents money they expect to receive. By contrast, Productivity4Ever has to incorporate that document into its Accounts Payable, or AP, to indicate that this is a charge they need to pay for a service performed.
+
+Hopefully, that example is helpful in illustrating how AP comes into play for companies. Anytime the company receives goods or services from other companies, it is charged through the AP process. As [this thorough website](https://www.accountingcoach.com/accounts-payable/explanation) explains, the AP process is very important and has to be monitored carefully. Here’s why.
+
+### **The Importance of AP**
+
+For many businesses, a very large volume of information and documents will move through the hands or computers of employees responsible for the AP process. Efficient AP requires fast processing speeds and meticulous, accurate record keeping to track all the moving parts. The process of managing AP generally starts with receiving an invoice from a vendor, which needs to be verified as both legitimate and accurate. That means that not only is in the invoice for a good or service that was actually provided, it’s also got the correct amounts of items, prices, and total cost listed.
+
+Verifying invoices often requires a three-way match between purchase orders, a record of receipt, and invoices. Wait, what are all those? Okay, I’ll break it down. The language in [this Wikipedia article](https://en.wikipedia.org/wiki/Purchase_order) is a bit dense, but essentially, a purchase order (PO) is a document from the company that was given to the vendor ahead of time to indicate what goods or services were requested, when, in what quantity, and for what price. Going back to our example from Investopedia, before Carpet Cleanerz would ever come in to provide carpet cleaning services, there would have to be a PO issued by Productivity4Ever to request this service, with an indication of how often it should happen, when it should happen, and how much Productivity4Ever will agree to pay for the service. Now, when an invoice comes in from Carpet Cleanerz, one part of the AP process for Productivity4Ever requires matching the information on the invoice to the pre-existing PO to ensure that the invoice represents an accurate charge. Moreover, these documents should also be matched with a record of receipt, which would document that yes indeed, Carpet Cleanerz did provide the services agreed upon in the PO. Only then should Productivity4Ever’s AP move towards paying the invoice.
+
+I hope that outline makes sense, but if you just want to be sure, feel free to check out [this free quiz from Accounting Coach](https://www.accountingcoach.com/accounts-payable/quiz). You should be able to answer many of the first several questions with the information you just read.
+
+### **The Challenges of AP**
+
+Now, as with any important business process, AP carries its fair share of challenges, many of which are outlined on [this site](https://www.accountingcoach.com/accounts-payable/explanation). The document matching and payment process need to happen quickly and accurately for several reasons. First, fast processing of invoices maintains positive relationships with vendors and avoids additional fees charged for late or missed payments. Second, careful record keeping for the AP process avoids duplicate entries for the same charge, which could lead to paying double! Additionally, records need to be processed efficiently and accurately to provide complete and true statements for the company’s records at the end of every accounting period. And finally, AP needs to be protected from fraud.
+
+[This article](https://www.allbusiness.com/detecting-and-preventing-accounts-payable-fraud-12375493-1.html) outlines both the vulnerabilities of AP to fraud and the solutions businesses can implement to prevent fraud. For example, the article advises AP professionals to check invoices frequently to verify that details like the listed address and phone number are correct. As another example, extra attention should be paid to payment amounts just under established thresholds that would require special attention. For implementing many of these best practices, the article suggests harnessing the power of modern technology to monitor all the nitty gritty details, and that’s where automation comes in.
+
+### **The Solution: Automating AP**
+
+As [this Forbes article](https://www.forbes.com/sites/forbestechcouncil/2020/04/22/bringing-greater-visibility-and-control-to-accounts-payable-and-the-entire-organization/#38c68ffb619e) points out, manual processing of AP increases the risk of human error, lost documents, and fraud, as was mentioned above. Moreover, processing AP documents in hard copy decreases the visibility of the process to all the professionals and departments that need access to AP data. Not only does automating AP address these issues, but it also introduces some extra boosts to the process.
+
+[This article](https://www.forbes.com/sites/forbesfinancecouncil/2019/05/07/five-ways-to-optimize-your-accounts-payable-and-finance-teams/#1195f9a16309) lists some of the roles technology can play in optimizing the AP process. Automated processes can review invoices before payments are ever made, match invoices with POs and records of goods or services received, flag duplicate charges through the use of artificial intelligence, and most importantly, allow professionals to focus on other work. In essence, automating AP means taking the busy work off your employees’ plates and allowing them instead to focus on more important tasks. If that sounds like a dream, check out [Pyrus's AP automation services](https://pyrus.com/en/accounts-payable). Pyrus can do all the tasks I just mentioned and more to let your AP teamwork more efficiently.
+
+And to be clear, automation does not eliminate the need for human employees. [This insightful HBR article](https://hbr.org/2017/04/thinking-through-how-automation-will-affect-your-workforce) by John Boudreau, professor at the University of Southern California’s Marshall School of Business and a noted author on the changing workforce, as well as his coauthor Ravin Jesuthasan, explains how automation can integrate with the human workforce. Their research demonstrates how the future of efficient work in areas like AP requires the harmonious integration of human employees with automated processes.
+
+So, what are you waiting for? Check out what [Pyrus](https://pyrus.com/en/accounts-payable) can do to automate your AP process and start optimizing right away.

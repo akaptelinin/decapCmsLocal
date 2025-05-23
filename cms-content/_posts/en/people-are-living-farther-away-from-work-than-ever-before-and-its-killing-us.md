@@ -1,0 +1,20 @@
+---
+title: People Are Living Farther Away From Work Than Ever Before And It's Killing Us
+date: 2015-04-23
+previewText: "The data is in and the results are unusual: workers are living farther away from the office in a way that they never have before. This increased distance between our work life and our home life is not only inefficient, but it’s dangerous to the point of affecting our health and the economy. It’s a reflection of jobs increasingly being pushed into the suburbs, where commute times are notoriously longer due to sprawl between communities. Compare this to a densely populated city like New York, where most people get by without owning a car at all."
+author: Tom Zimmerman
+---
+
+![commuting-car](commuting-car.webp)
+
+The [data is in](http://www.brookings.edu/research/reports2/2015/03/24-people-jobs-distance-metropolitan-areas-kneebone-holmes) and the results are unusual: workers are living farther away from the office in a way that they never have before. This increased distance between our work life and our home life is not only inefficient, but it’s dangerous to the point of affecting our health and the economy. It’s a reflection of jobs increasingly being pushed into the suburbs, where commute times are notoriously longer due to sprawl between communities. Compare this to a densely populated city like New York, where most people get by without owning a car at all.
+
+Your commute to work is one of the [best indicators](http://www.forbes.com/sites/amymorin/2014/12/07/want-to-be-happier-change-your-commute-or-change-your-attitude/) of your personal happiness. Is it quick and easy? Or are you snarled in traffic jams on the regular, with 45 minutes of travel still to go?
+
+If you can change your commute, you can effectively change your life. A scientific study that tracked 20,000 British commuters found that people who walk or bike to work are far more likely to save themselves from a host of health problems that might be attached to sitting idly in a car for some time each day. Those who walked were 40% less likely than drivers to be diabetic. If you ride a bike, the numbers are even better: cyclists are a full 50% less likely to suffer from the same condition than those who drive themselves to work.
+
+Trying changing the way you get to work for a week and see what differences you notice in your mood, outlook, and overall productivity. Tune up your bike or find a nearby carpool you can join. Or you can go for the ultimate in professional convenience: working remotely, effectively burning your commute out of existence. A Lifehacker headline boldly states that “ditching your commute is the happiness equivalent of a $40,000 raise.” This figure comes from work done by National Geographic Fellow and author Dan Buettner. So go for it!
+
+When you compare the benefits of commuting a longer distance to work (there are none) and the benefits of working from wherever you like (there are many), you see that this is no longer just a professional concern. It becomes an environmental concern, as you’re no longer needing to drive as regularly. It becomes a happiness concern, as you have more time to spend with family or do things you love. It becomes a work/home life balance concern, as you find the scales tipped back dramatically in favor of home life. Simply put, there are so many more items in the “pro” column than the “con” column that it’s not sensible to expect people to do their work from the same location every day when that work can be done online.
+
+Employees who work remotely enjoy a number of benefits over those who are required to drive to an office every day. Don’t you want your employees to be at their happiest for the sake of being the most productive? With the proliferation of internet technology making it easy render business processes geographically unimportant, you might as well figure out how to keep up. Your employees (and their families, and the planet) will thank you.

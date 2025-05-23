@@ -1,0 +1,15 @@
+{
+  "name": "pyrus-cms",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "startdbg": "node --inspect-brk app.js",
+    "heroku": "heroku container:push web -a pyrus-cms && heroku container:release web -a pyrus-cms"
+  },
+  "dependencies": {
+    "dotenv": "^16",
+    "express": "^4.15.2",
+    "randomstring": "^1.2",
+    "simple-oauth2": "^5"
+  }
+}

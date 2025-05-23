@@ -1,0 +1,15 @@
+---
+title: How Over-Communication Can Lead To Decreased Productivity
+date: 2016-03-15
+previewText: "Depending on the size of your business, it might be tempting to include everyone in all company communication. The logic is that if your employees and team members are kept abreast to all happenings within the company then they will be better equipped to solve problems and come up with innovative solutions. While that might be true for a startup with just a couple members, once your business starts growing and making money, including everyone in everyday aspects of your business for all departments can actually lead to less productivity."
+author: Josiah Motley
+---
+Depending on the size of your business, it might be tempting to include everyone in all company communication. The logic is that if your employees and team members are kept abreast to all happenings within the company then they will be better equipped to solve problems and come up with innovative solutions. While that might be true for a startup with just a couple members, once your business starts growing and making money, including everyone in everyday aspects of your business for all departments can actually lead to less productivity.
+
+That's not to say that communication isn't important, it's of the utmost importance, but there needs to be limits on who you communicate information with. Your HR department doesn't need to know about shipping delays, in the same way your shipping department doesn't need to be kept in the loop about new hires. By keeping them in the loop, you're increasing the time spent checking and reading emails, as well as time and energy spent wondering how HR can help with shipping delays. While it's obvious that it is a Shipping Department issue, HR now feels compelled to come up with ideas for an unrelated department.
+
+![dilbert-on-retention](dilbert-on-retention.webp)
+
+Over-communication through email isn't the only productivity killer, however. Meetings are a main culprit in slowing down you team's workflow. In a poll from _[Industry Week](http://www.industryweek.com/archive/meetings-waste-time-employees-complain),_ almost 30% of those surveyed said meetings were the biggest productivity killer and time waster. Many meetings can be summarized in an email to the appropriate departments. Yes, getting together and having open dialogue can bring fresh ideas into a project, but if 50% of your time is spent in meetings, that only leaves you half of the time available to you to actually execute those ideas.
+
+Having a system that keeps your team in the loop, without taking too much of their time in the form of meetings and unnecessary email correspondence is key to a successful business. That's where something like Pyrus comes into play. Being able to delegate responsibilities and workflow allows employees at all levels in the project to be kept up-to-date on aspects that are pertinent to them, and not with information that unrelated to them.

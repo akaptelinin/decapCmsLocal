@@ -1,0 +1,41 @@
+---
+title: "Molding Mindset: Flourishing by Failing"
+date: 2020-09-08
+tags:
+  - accounts-payable
+  - communication
+  - productivity
+  - teamwork
+previewImage: psychology-4757120_640-630x420-from-site-en.png
+previewText: "Have you heard of growth mindset? The literature on success in the workplace is littered with references to this concept. In fact, this Forbes article not only labels the growth mindset an “essential” ingredient to success but also confidently asserts that “mindset is everything.” So what is growth mindset?"
+author: Nora Rubin
+---
+Have you heard of growth mindset? The literature on success in the workplace is littered with references to this concept. In fact, [this Forbes article](https://www.forbes.com/sites/carolinecastrillon/2019/07/09/why-a-growth-mindset-is-essential-for-career-success/#32ececb028b5) not only labels the growth mindset an “essential” ingredient to success but also confidently asserts that “mindset is everything.” So what is growth mindset?
+
+### **Growth Mindset Versus Fixed Mindset**
+
+In [this TED talk](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve#t-292558), Stanford University psychologist Carol Dweck describes the research that has led to her well-known work on growth mindset. Author of _Mindset: The New Psychology of Success_, Dweck makes a strong argument for growth mindset’s contribution to success. First, she describes the “power of yet.” She argues that approaching failure as a “not yet success” leaves room for the possibility of future learning and growth. Then, Dweck contrasts this with fixed mindset. Those who live in the “tyranny of now,” with a fixed mindset, view present failure as a condemnation to stagnation. They do not believe growth and improvement are possible. Instead, they view their abilities as static. As a result, they stay stuck in their present abilities, fulfilling their own prophecy of growth being out of reach.
+
+Dweck shares some practical examples of how children in her studies embrace these mindsets when facing challenge and failure. She describes how 10-year-olds with a growth mindset eagerly approach difficult tasks, saying things like, “I love a challenge!” These children show increased brain activity when confronted with tricky tasks, and they learn from their errors. On the other hand, children who adopt a fixed mindset shy away from challenge and admit they will cheat on difficult tasks to achieve good results. The problem Dweck highlights is a focus on result rather than process. So how does this translate into the workplace?
+
+### **The Failure of Fixed Mindset at Work**
+
+[This Forbes article](https://www.forbes.com/sites/ashleystahl/2020/07/23/how-your-fixed-mindset-is-limiting-your-career-and-how-to-change-it/#431678b72a06) describes many of the detrimental consequences of adopting a fixed mindset in the workplace. If you believe that your abilities are static, you will start to identify with your failures. Then, you prevent yourself from improvement! Embracing a fixed mindset will hinder your courage in the face of difficulties and setbacks. In fact, it may cause you to feel helpless and overwhelmed in the face of defeat. Experiences with failure, when viewed through the lens of a fixed mindset, can lead you to fear criticism, give up on opportunities without even trying, and hold yourself back from career growth.
+
+That’s especially concerning in an age when technology and development advance rapidly. Our fast-evolving economy demands adaptability and growth from its workforce, which a fixed mindset just won’t allow. [A recent study by the McKinsey Global Institute](https://www.mckinsey.com/featured-insights/future-of-work/jobs-lost-jobs-gained-what-the-future-of-work-will-mean-for-jobs-skills-and-wages) estimated that between 400-800 million workers could find their current jobs replaced by automation within the decade. What will a worker with a fixed mindset do then to adapt, grow, and learn something new?
+
+I believe that all of us need to start embracing the growth mindset. Luckily, there are practical steps you can take towards that end.
+
+### **Growing into a Growth Mindset**
+
+Start by identifying your own mindset. Pay attention to the language of your thoughts as you respond to trying situations at work. [This article](https://www.forbes.com/sites/ashleystahl/2020/07/23/how-your-fixed-mindset-is-limiting-your-career-and-how-to-change-it/#431678b72a06) shares some examples of how a fixed mindset and a growth mindset would respond differently to situations like receiving constructive criticism from a colleague or watching another colleague achieve success. To move towards a growth mindset, introduce the word “yet” into your vocabulary and be intentional in how you describe your abilities. Instead of thinking to yourself, _I can’t succeed at this task_, try thinking, _I don’t know how to accomplish this task yet_. This approach can open the door to looking for a growth opportunity.
+
+Even outside of specifically challenging situations, take on the growth mindset by soliciting growth opportunities. [This article](https://www.forbes.com/sites/carolinecastrillon/2019/07/09/why-a-growth-mindset-is-essential-for-career-success/#32ececb028b5) suggests seeking out opportunities outside your comfort zone. Try something new, seek a challenge, and accept feedback. Even better, take that feedback seriously, as [this article](https://www.forbes.com/sites/ashleystahl/2020/07/23/how-your-fixed-mindset-is-limiting-your-career-and-how-to-change-it/#431678b72a06) advises. Leap into leadership opportunities with confidence and stay open to others’ feedback. Sure, failure is an inevitable consequence of a risk, but having a growth mindset means you can look forward to that. View failures as opportunities to receive feedback, reevaluate, and learn how to grow your abilities. As I wrote in [last week's blog on learning from children](https://pyrus.com/en/blog/large-lessons-from-little-learners), one of kids’ biggest assets in accomplishing challenging tasks is their willingness to constantly rethink and accept feedback. That’s a lesson growth mindset allows us to bring into our own journeys towards success at work.
+
+### **Leading Learning at Work**
+
+Not only can each of us foster a growth mindset for ourselves, workplace leaders can also change the culture of their team or company to embrace the principles of a growth mindset. [This HBR article](https://hbr.org/2020/01/to-be-a-great-leader-you-need-the-right-mindset) argues that mindset is an essential component of leadership and encourages leaders to make several intentional choices in mindset. First, promote a growth mindset over a fixed mindset. View individuals as dynamic workers who can learn, grow, and improve their abilities with experience. Second, embrace a learning mindset over a performance mindset. Emphasize the value of workers learning in their jobs, not just the value of good performance and results. This can encourage workers to take their time in developing new skills while delivering great results. Finally, take on a deliberative mindset rather than an implemental mindset. Invest in the process of deliberating on decisions, considering feedback and opportunities for growth, instead of narrowing the focus on implementation alone.
+
+### COVID-19 As Fertile Soil for Growth
+
+I’ll leave you with some insights from [this fascinating article](https://hbr.org/2020/08/6-ways-a-crisis-can-help-you-cultivate-a-growth-mindset) about the intersection of COVID-19 and growth mindset. This article explains why the pandemic provides us with a perfect opportunity to increase our focus on adopting a growth mindset. As the authors point out, this pandemic has forced all workers and companies to confront new challenges, innovate work processes, and take risks in trying new strategies for success. This is the time to rely on the growth mindset. Now more than ever, we have the opportunity to be more patient with the process. We’ve all become more forgiving of pets in virtual meetings and diapered children in business conferences. Let’s become more accepting of failure as well. This is the time to focus on feedback, lean into challenge, and grow in new directions. Here’s to us all stepping up to the challenge. Here’s to our growth!
