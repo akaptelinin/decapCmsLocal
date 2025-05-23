@@ -10,76 +10,76 @@ media_folder: cms-content/public/img
 public_folder: "cms-content/public/img"
 
 collections:
-  - name: "ru_blog"
-    label: "Посты для блога (ru)"
-    label_singular: "Пост"
-    folder: "cms-content/_posts/ru"
-    create: true
-    fields:
-      - { name: "title", label: "Заголовок", widget: "string" }
-      - { name: "author", label: "Автор", widget: "string" }
-      - { name: "date", label: "Дата", widget: "datetime" }
-      - name: "category"
-        label: "Категория"
-        widget: "select"
-        multiple: false
-        options:
-          - { label: "Новости", value: "news" }
-          - { label: "Пресса", value: "press" }
-          - { label: "Кейсы", value: "customer-stories" }
-          - { label: "Лайфхаки", value: "practice" }
-        required: true
-      - name: "tags"
-        label: "Теги"
-        widget: "list"
-        required: false
-        allow_add: true
-        field: { name: "tag", label: "Тег", widget: "string" }
-      - name: "customPreviewText"
-        label: "Превью текст"
-        widget: "text"
-        required: false
-        hint: "Если не задан, будет взят из первого параграфа"
-      - name: "previewImage"
-        label: "Превью картинка"
-        widget: "image"
-        required: true
-      - name: "body"
-        label: "Тело поста"
-        widget: "markdown"
-        editor_components:
-          - custom_image_block
-          - code-block
-          - custom_iframe_block
+- name: "ru_blog"
+  label: "Посты для блога (ru)"
+  label_singular: "Пост"
+  folder: "cms-content/_posts/ru"
+  create: true
+  fields:
+  - { name: "title", label: "Заголовок", widget: "string" }
+  - { name: "author", label: "Автор", widget: "string" }
+  - { name: "date", label: "Дата", widget: "datetime" }
+  - name: "category"
+    label: "Категория"
+    widget: "select"
+    multiple: false
+    options:
+    - { label: "Новости", value: "news" }
+    - { label: "Пресса", value: "press" }
+    - { label: "Кейсы", value: "customer-stories" }
+    - { label: "Лайфхаки", value: "practice" }
+    required: true
+  - name: "tags"
+    label: "Теги"
+    widget: "list"
+    required: false
+    allow_add: true
+    field: { name: "tag", label: "Тег", widget: "string" }
+  - name: "customPreviewText"
+    label: "Превью текст"
+    widget: "text"
+    required: false
+    hint: "Если не задан, будет взят из первого параграфа"
+  - name: "previewImage"
+    label: "Превью картинка"
+    widget: "image"
+    required: true
+  - name: "body"
+    label: "Тело поста"
+    widget: "markdown"
+    editor_components:
+    - custom_image_block
+    - code-block
+    - custom_iframe_block
 
-  - name: "en_blog"
-    label: "Posts for blog (en)"
-    label_singular: "Post"
-    folder: "cms-content/_posts/en"
-    create: true
-    fields:
-      - { name: "title", label: "Title", widget: "string" }
-      - { name: "author", label: "Author", widget: "string" }
-      - { name: "date", label: "Date", widget: "datetime" }
-      - name: "tags"
-        label: "Tags"
-        widget: "list"
-        required: false
-        allow_add: true
-        field: { name: "tag", label: "Tag", widget: "string" }
-      - name: "customPreviewText"
-        label: "Preview text"
-        widget: "text"
-        required: false
-        hint: "If empty, the first paragraph will be used"
-      - name: "previewImage"
-        label: "Preview image"
-        widget: "image"
-        required: true
-      - name: "body"
-        label: "Post Body"
-        widget: "markdown"
-        editor_components:
-          - custom_image_block
-          - code-block
-          - custom_iframe_block
+- name: "en_blog"
+  label: "Posts for blog (en)"
+  label_singular: "Post"
+  folder: "cms-content/_posts/en"
+  create: true
+  fields:
+  - { name: "title", label: "Title", widget: "string" }
+  - { name: "author", label: "Author", widget: "string" }
+  - { name: "date", label: "Date", widget: "datetime" }
+  - name: "tags"
+    label: "Tags"
+    widget: "list"
+    required: false
+    allow_add: true
+    field: { name: "tag", label: "Tag", widget: "string" }
+  - name: "customPreviewText"
+    label: "Preview text"
+    widget: "text"
+    required: false
+    hint: "If empty, the first paragraph will be used"
+  - name: "previewImage"
+    label: "Preview image"
+    widget: "image"
+    required: true
+  - name: "body"
+    label: "Post Body"
+    widget: "markdown"
+    editor_components:
+    - custom_image_block
+    - code-block
+    - custom_iframe_block
