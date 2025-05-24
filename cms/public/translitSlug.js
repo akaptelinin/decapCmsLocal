@@ -34,19 +34,27 @@ const symbolMap = {
     я: 'ya'
 };
 
-function translit(str) {
+function translitSlug(str) {
     return str
         .toLowerCase()
         .split('')
         .map(ch => {
-            if (map[ch] !== undefined) return map[ch];
             if (/[a-z0-9]/.test(ch)) return ch;
-            if (ch === ' ' || ch === '_' || ch === ',') return '-';
-            return '';
+            if (symbolMap[ch] !== undefined) return symbolMap[ch];
+            if (/[a-z0-9]/.test(ch)) return ch;
+            return '-';
         })
         .join('')
         .replace(/-+/g, '-')
         .replace(/^-+|-+$/g, '');
 }
 
-window.slugify = translit;
+CMS.registerEventListener({
+    name: 'preSave',
+    handler: ({ entry }) => {
+        if (entry.getIn(['data', 'slug'], '')) return;
+        const title = entry.getIn(['data', 'title'], '') || '';
+        const slug = translitSlug(title);
+        return entry.get('data').set('slug', slug);
+    }
+});
