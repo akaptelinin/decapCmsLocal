@@ -52,7 +52,7 @@ CMS.registerEditorComponent({
         }
     },
     toBlock({ src, alt, caption, size }) {
-        let block = `{% image src="${src}" alt="${alt}"`
+        let block = `{% image src="${src}" alt="${alt ?? ""}"`
         if (caption) block += ` caption="${caption}"`
         if (size) block += ` size="${size}"`
         block += ` %}{% /image %}`
