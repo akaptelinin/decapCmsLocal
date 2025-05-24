@@ -14,9 +14,11 @@ collections:
   label: "Посты для блога (ru)"
   label_singular: "Пост"
   folder: "cms-content/_posts/ru"
+  slug: "{{fields.slug}}"
   create: true
   fields:
   - { name: "title", label: "Заголовок", widget: "string" }
+  - { name: "slug", label: "Slug", widget: "hidden" }
   - { name: "author", label: "Автор", widget: "string" }
   - { name: "date", label: "Дата", widget: "datetime" }
   - name: "category"
