@@ -58,9 +58,11 @@ collections:
   label: "Posts for blog (en)"
   label_singular: "Post"
   folder: "cms-content/_posts/en"
+  slug: "{{fields.slug}}"
   create: true
   fields:
   - { name: "title", label: "Title", widget: "string" }
+  - { name: "slug", label: "Slug", widget: "hidden" }
   - { name: "author", label: "Author", widget: "string" }
   - { name: "date", label: "Date", widget: "datetime" }
   - name: "tags"
