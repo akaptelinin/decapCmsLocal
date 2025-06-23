@@ -10,6 +10,17 @@
 <body>
     <!-- Include the script that builds the page and powers Decap CMS -->
     <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+    <script>
+        CMS.registerPreviewStyle(
+            `img {
+                display: block;
+                max-width: 100%;
+                height: auto;
+                object-fit: contain;
+            }`,
+            { raw: true }
+        );
+    </script>
     <script src="markdocTags.js"></script>
     <script src="translitSlug.js"></script>
 </body>

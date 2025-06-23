@@ -99,9 +99,20 @@ function formatStringToSlug(string) {
 CMS.registerEventListener({
     name: 'preSave',
     handler: ({ entry }) => {
-        if (entry.getIn(['data', 'slug'], '')) return;
-        const title = entry.getIn(['data', 'title'], '') || '';
-        const slug = formatStringToSlug(title);
-        return entry.get('data').set('slug', slug);
+        const collectionName = entry.get('collection');
+
+        if (collectionName === 'ru_vacancies') {
+            const slug = entry.getIn(['data', 'slug'], '');
+            const newSlug = formatStringToSlug(slug);
+
+            return entry.get('data').set('slug', newSlug);
+        }
+
+        if (!entry.getIn(['data', 'slug'], '')) {
+            const title = entry.getIn(['data', 'title'], '') || '';
+            const newSlug = formatStringToSlug(title);
+
+            return entry.get('data').set('slug', newSlug);
+        }
     }
 });

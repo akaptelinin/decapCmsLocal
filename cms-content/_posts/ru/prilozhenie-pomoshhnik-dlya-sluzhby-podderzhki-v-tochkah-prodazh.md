@@ -1,14 +1,58 @@
 ---
 title: Приложение «Помощник» для службы поддержки в точках продаж
+slug: prilozhenie-pomoshhnik-dlya-sluzhby-podderzhki-v-tochkax-prodazh
 date: 2025-03-11
 category: news
-previewImage: Pomoshhnik-kartinka-630h420.webp
-previewText: "Представляем новое мобильное приложение «Помощник», которое организует и структурирует работу службы поддержки в сетевых магазинах, ресторанах, точках продаж. Приложение работает по принципу «По каждой проблеме - отдельный чат»."
+previewImage: cms-content/public/img/Pomoshhnik-kartinka-630h420.webp
+previewText: Представляем новое мобильное приложение «Помощник», которое
+  организует и структурирует работу службы поддержки в сетевых магазинах,
+  ресторанах, точках продаж. Приложение работает по принципу «По каждой проблеме
+  - отдельный чат».
 author: Ирина Башкова
 ---
-![](Pomoshhnik-kartinka-630h420.webp)
+{% iframe src="https://vkvideo.ru/video_ext.php?oid=-39695421&id=456239092&hd=2&autoplay=1" %}{% /iframe %}
 
-_Представляем новое мобильное приложение «Помощник», которое организует и структурирует работу службы поддержки в сетевых магазинах, ресторанах, точках продаж. Приложение работает по принципу «По каждой проблеме - отдельный чат»._
+{% image src="cms-content/public/img/maintenance-1151312_640.webp" alt="Workflow automation software " width="640" height="489" %}{% /image %}
+
+1
+
+{% image src="cms-content/public/img/Pomoshhnik-kartinka-630h420.webp" width="1800" height="1200" %}{% /image %}
+
+2
+
+{% image src="cms-content/public/img/Pomoshhnik-kartinka-630h420.webp" width="1800" %}{% /image %}
+
+3
+
+{% image src="cms-content/public/img/Pomoshhnik-kartinka-630h420.webp" %}{% /image %}
+
+4
+
+{% image src="cms-content/public/img/Pomoshhnik-kartinka-630h420.webp" height="1200" %}{% /image %}
+
+5
+
+{% image src="cms-content/public/img/Pomoshhnik-kartinka-630h420.webp" width="1800" height="1200" %}{% /image %}
+
+6
+
+{% image src="cms-content/public/img/Pomoshhnik-kartinka-630h420.webp" alt="dsa" width="1800" %}{% /image %}
+
+7
+
+{% image src="cms-content/public/img/Pomoshhnik-kartinka-630h420.webp" caption="dsad" %}{% /image %}
+
+8
+
+{% image src="cms-content/public/img/Pomoshhnik-kartinka-630h420.webp" height="1200" %}{% /image %}
+
+*орлрл*
+
+{% image src="cms-content/public/img/03_lasdasdarge-from-site-en.jpg" %}{% /image %}
+
+*Представляем новое мобильное приложение «Помощник», которое организует и структурирует работу службы поддержки в сетевых магазинах, ресторанах, точках продаж. Приложение работает по принципу «По каждой проблеме - отдельный чат».*
+
+{% image src="cms-content/public/img/111.png" %}{% /image %}
 
 В отличие от других мессенджеров, где сообщения по разным вопросам перемешиваются в одном чате, в новом приложении все обращения упорядочены. Это особенно актуально для сетей, в которых много филиалов.
 

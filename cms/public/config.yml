@@ -9,6 +9,8 @@ logo_url: https://pyrus.com/_nextsrc/img/forMedia/pyrus_logo_with_icon.svg
 media_folder: cms-content/public/img
 public_folder: "cms-content/public/img"
 
+local_backend: true
+
 collections:
 - name: "ru_blog"
   label: "Посты для блога (ru)"
@@ -29,7 +31,6 @@ collections:
     - { label: "Новости", value: "news" }
     - { label: "Пресса", value: "press" }
     - { label: "Кейсы", value: "customer-stories" }
-    - { label: "Лайфхаки", value: "practice" }
     required: true
   - name: "tags"
     label: "Теги"
@@ -53,6 +54,22 @@ collections:
     - custom_image_block
     - code-block
     - custom_iframe_block
+
+- name: "ru_vacancies"
+  label: "Вакансии (ru)"
+  label_singular: "Вакансия"
+  folder: "cms-content/_vacancies/ru"
+  extension: "md"
+  create: true
+  slug: "{{fields.slug}}"
+  fields:
+    - { name: "title", label: "Заголовок", widget: "string" }
+    - name: "slug"
+      label: "Заголовок на английском"
+      widget: "string"
+      hint: "Нужен для красивого адреса страницы. Можно изпользовать цифры. Например: b2b sales manager"
+    - { name: "description", label: "Описание", widget: "string" }
+    - { name: "body", label: "Текст вакансии", widget: "markdown" }
 
 - name: "en_blog"
   label: "Posts for blog (en)"
